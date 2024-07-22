@@ -1,4 +1,4 @@
-![logo](https://github.com/aky-ds/aky-ds/blob/main/AYAZ%20UL%20HAQ.png)
+<img src="https://github.com/aky-ds/aky-ds/blob/main/AYAZ%20UL%20HAQ.png" alt="Ayaz Ul Haq" style="max-width: 100%; height: auto;">
 <h1 align="center">Hi 👋, I'm AYAZ UL HAQ</h1>
 <h3 align="center">A dynamic data scientist from Pakistan</h3>
 <img align='right',alt='coding',width='400' src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
