@@ -1,97 +1,132 @@
-<h2 align="left">
-Hi 👋! My name is Ayaz Ul Haq and I'm an AI & Machine Learning Engineer, from Pakistan 🇵🇰
-</h2>
+<h2 align="center">Ayaz ul Haq</h2>
+<h3 align="center">AI Engineer | MLOps & LLMOps | Generative AI | Computer Vision</h3>
+<h4 align="center">Building scalable, production-grade AI systems</h4>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aky-ds&label=Profile%20views&color=0e75b6&style=flat" alt="aky-ds" />
+</p>
+
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=aky-ds&margin-w=15">
+    <img src="https://github-profile-trophy.vercel.app/?username=aky-ds" alt="aky-ds" />
+  </a>
+</p>
+
+---
 
 ### 🚀 About Me
 
-I am an **Artificial Intelligence Engineer and Data Scientist** with strong experience in  
-**Machine Learning, Generative AI, Computer Vision, and MLOps**.  
-I specialize in **building end-to-end, production-ready AI systems** — from research and data exploration to scalable deployment.
-
-- 🔭 Currently working as **Project-Based Associate AI Engineer**
-- 🧠 Interested in **GenAI, Agentic AI, RAG systems, and scalable ML pipelines**
-- 👨‍🏫 Data Science & AI **Instructor and Mentor**
-- 🎓 BS in Information Technology (CGPA: 3.6/4)
+- AI Engineer with **strong production experience** in **Machine Learning, Generative AI, and MLOps**
+- Designed and deployed **end-to-end ML pipelines** from research to production
+- Specialized in **LLMs, RAG systems, Agentic AI, and scalable ML infrastructure**
+- Proven leadership experience as **Team Lead & AI Mentor**
+- Passionate about **building AI systems that scale to millions of users**
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 Current Focus
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aky-ds&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aky-ds&layout=compact&langs_count=6&theme=dracula" height="150"/>
-</div>
-
----
-
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+- 🔭 **Advanced MLOps & LLMOps** (CI/CD, monitoring, retraining, drift handling)
+- 🌱 **Agentic AI Systems** (multi-agent RAG, tool-using LLMs, autonomous workflows)
+- 🧪 **Production GenAI** (fine-tuning, embeddings, evaluation, cost optimization)
 
 ---
 
-### 🧰 Tech Stack
+### 💼 Professional Experience
 
-<div align="left">
-  <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="12"/>
+**Project-Based Associate AI Engineer – ITSOLERA**  
+*Islamabad | 2024 – 2025*
 
-  <!-- ML / DL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30"/>
-  <img width="12"/>
-
-  <!-- Data -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
-  <img width="12"/>
-
-  <!-- MLOps / DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30"/>
-  <img width="12"/>
-
-  <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30"/>
-</div>
+- Designed and deployed **scalable ML pipelines** using Python, TensorFlow, Docker, and Kubernetes  
+- Built **multi-modal AI systems** combining tabular + image data for healthcare and enterprise use cases  
+- Delivered **production-ready POCs** with measurable business impact  
+- Collaborated with cross-functional and remote teams
 
 ---
 
-### 🧠 Key Expertise
-- Machine Learning & Deep Learning (CNN, RNN, XGBoost)
-- Generative AI (LLMs, RAG, LoRA, QLoRA)
-- Computer Vision (Detection, Segmentation, OpenCV)
-- MLOps (Docker, Airflow, CI/CD, AWS)
-- Agentic AI (CrewAI, LangGraph, Pydantic)
+**Artificial Intelligence Engineer Intern – ITSOLERA**  
+*2024*
+
+- Led an ML team delivering **computer vision and supervised learning solutions**
+- Built systems for **lane-line detection, medical diagnosis, and facial-expression–based therapy**
+- Achieved **high accuracy (95%+)** across multiple models
 
 ---
 
-### 📌 Featured Projects
-- **Fintech Role-Based Access Chatbot (GenAI + RAG)**
-- **Laptop Price Predictor with Full MLOps Pipeline**
-- **NeuroCV – AI Resume Screening Platform**
-- **Medical AI Systems (CV + Multimodal AI)**
+**Machine Learning Engineer Intern – CodexCue**  
+*2024*
+
+- Implemented optimized ML models using **ensemble techniques & hyperparameter tuning**
+- Delivered insights through **data preprocessing, visualization, and analytics**
 
 ---
 
-### 🌐 Connect With Me
+### 🏗️ Selected High-Impact Projects
 
-<div align="left">
-  <a href="mailto:syedthescientist@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+**🔹 Fintech Role-Based Access Chatbot (GenAI + RAG)**  
+- Built a **secure enterprise-grade RAG chatbot** with role-based access control  
+- Stack: **LangChain, LLaMA 3, ChromaDB, Groq, Streamlit**  
+- Designed persistent vector storage and admin dashboards
+
+---
+
+**🔹 Laptop Price Predictor (Full MLOps Pipeline)**  
+- Designed an **end-to-end MLOps pipeline** with CI/CD and automated retraining  
+- Orchestrated ETL with **Apache Airflow**  
+- Deployed on **AWS Elastic Beanstalk**  
+- Stack: Python, Docker, DVC, GitHub Actions, AWS
+
+---
+
+**🔹 NeuroCV – AI Resume Screening System**  
+- Built an LLM-based system for **semantic resume–JD matching**
+- Generated compatibility scores to accelerate hiring decisions  
+- Stack: Python, NLP, LLMs, Flask
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python  
+**ML & DL:** Scikit-learn, TensorFlow, PyTorch, XGBoost  
+**Generative AI:** LLMs, RAG, LoRA, QLoRA, LangChain  
+**Agentic AI:** CrewAI, LangGraph, Pydantic  
+**MLOps:** Docker, Kubernetes, Jenkins, Airflow, DVC, Terraform  
+**Databases:** MySQL, MongoDB, Cassandra  
+**Cloud:** AWS, Azure, Heroku  
+
+---
+
+### 🏆 Achievements & Leadership
+
+- 🥇 **Four-time top position holder** – AI, Data Science, Computer Vision (GCUH Talent Festivals)
+- 🎤 Presented research at **ICGAD** & **Sindh Tech Research Exhibition**
+- 👥 IEEE Student Member & **Team Lead**
+- 🎓 Instructor & Mentor with **3+ years of teaching experience**
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ayaz-ul-haq-9772862b2/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/ayaz-ul-haq-9772862b2">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.youtube.com/@scientistayaz" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
   </a>
-  <a href="https://github.com/aky-ds">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
+</p>
 
 ---
 
-<br clear="both"/>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aky-ds&layout=compact" />
+</p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aky-ds&show_icons=true" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aky-ds" />
+</p>
